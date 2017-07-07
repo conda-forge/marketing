@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8.5in"
-   height="11in"
-   viewBox="0 0 765 990"
+   width="2.75in"
+   height="1.5in"
+   viewBox="0 0 247.5 135"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -30,15 +30,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.7565309"
      inkscape:cx="156.37319"
-     inkscape:cy="88.224066"
+     inkscape:cy="65.451908"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
      gridtolerance="10000"
      inkscape:window-width="1869"
      inkscape:window-height="810"
-     inkscape:window-x="25"
-     inkscape:window-y="19"
+     inkscape:window-x="37"
+     inkscape:window-y="63"
      inkscape:window-maximized="0"
      showguides="false"
      units="in">
@@ -62,7 +62,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-62.362205)">
+     transform="translate(0,-917.3622)">
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.00112152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4783"
@@ -130,7 +130,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4270"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:162.5px;line-height:129.99999523%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';text-align:start;letter-spacing:7.48000002px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.984375;"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:162.5px;line-height:129.99999523%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';text-align:start;letter-spacing:7.48000002px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.984375"
        transform="matrix(0.1670625,0,0,0.1670625,19.700701,843.92701)"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -140,7 +140,7 @@
            height="240.00002"
            x="-40"
            y="1032.3622"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:162.5px;line-height:129.99999523%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';text-align:start;letter-spacing:7.48000002px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.984375;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:162.5px;line-height:129.99999523%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';text-align:start;letter-spacing:7.48000002px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.984375" /></flowRegion><flowPara
          id="flowPara4278"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:162.5px;line-height:129.99999523%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';text-align:start;letter-spacing:7.48000002px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.984375;">CONDA-FORGE</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:162.5px;line-height:129.99999523%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';text-align:start;letter-spacing:7.48000002px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.984375">CONDA-FORGE</flowPara></flowRoot>  </g>
 </svg>
