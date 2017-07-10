@@ -28,14 +28,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7565309"
-     inkscape:cx="156.37319"
-     inkscape:cy="65.451908"
+     inkscape:zoom="2.1476098"
+     inkscape:cx="46.952107"
+     inkscape:cy="114.1702"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
      gridtolerance="10000"
-     inkscape:window-width="1869"
+     inkscape:window-width="1440"
      inkscape:window-height="810"
      inkscape:window-x="45"
      inkscape:window-y="50"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,10 +79,10 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <path
-         sodipodi:nodetypes="cccccccccccccccc"
+         sodipodi:nodetypes="ccccccccccccccc"
          inkscape:connector-curvature="0"
          id="path4203"
-         d="m -120.86863,222.16711 -0.0344,30.07216 c 27.975766,61.81768 200.047439,131.39474 310.14681,129.97309 59.98591,-0.77457 90.02036,40.33836 89.82132,109.69241 l -100.22721,79.92836 0.27369,60.2458 449.97841,-0.0565 -0.11963,-55.17393 -99.88462,-84.85856 c 2.76308,-160.39808 104.76019,-230.24401 240.0367,-239.97362 l 0.1187,-69.96251 -580.27108,-0.10735 0.15406,15.09496 -54.97201,0 0.22003,25.04051 z"
+         d="m -143.01319,222.52531 c 9.56597,30.92509 222.157599,161.1087 332.25697,159.68705 59.98591,-0.77457 90.02036,40.33836 89.82132,109.69241 l -100.22721,79.92836 0.27369,60.2458 449.97841,-0.0565 -0.11963,-55.17393 -99.88462,-84.85856 c 2.76308,-160.39808 104.76019,-230.24401 240.0367,-239.97362 l 0.1187,-69.96251 -580.27108,-0.10735 0.15406,15.09496 -54.97201,0 -0.19427,25.467 z"
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
